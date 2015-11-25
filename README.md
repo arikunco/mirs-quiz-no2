@@ -12,3 +12,8 @@ The collection contains 12 relevant documents for the query.
 a.	Draw the plot for precision-recall for both engines (20%)
 
 b.	Which engines returns better results ? Explain. (10%)
+
+# jawaban 
+![alt text](https://raw.githubusercontent.com/arikunco/mirs/master/soal.png "Test Smartphone 1")
+
+Bagus yang Machine B karena Precision/Recall nya cenderung stabil. 
