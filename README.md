@@ -14,6 +14,6 @@ a.	Draw the plot for precision-recall for both engines (20%)
 b.	Which engines returns better results ? Explain. (10%)
 
 # jawaban 
-![alt text](https://raw.githubusercontent.com/arikunco/mirs/master/soal.png "Test Smartphone 1")
+![alt text](https://raw.githubusercontent.com/arikunco/mirs-quiz-no2/master/PrecisionRecallGraph.png "Precision vs Recall Graph")
 
 Bagus yang Machine B karena Precision/Recall nya cenderung stabil. 
